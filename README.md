@@ -1,2 +1,3 @@
 # college-demo
-this is my first repos.
+this is my first Git repos.
+author-raju
